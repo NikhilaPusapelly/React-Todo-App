@@ -73,6 +73,13 @@ Users can import and export tasks to/from JSON files. This feature allows users 
 This app is a Progressive Web App (PWA), which means it can be installed on your device, **used even when you're offline** and behave like a native app with shortcuts and app badges.
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/pwaTaskBar.png" alt="taskbar" width="260px" />
+Date Filters on Home Page
+Easily filter tasks by date using “Today” and “This Week” options to quickly view tasks relevant to the current day or week.
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/6f83c7a8-904f-48ef-b469-5149487f7aca" />
+
+task priority features
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/11d100e3-032d-44f4-b754-b0de11154a2f" />
+
 
 ### 🔄 Update Prompt
 
@@ -117,4 +124,3 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 ## Credits
 
-licensed under [MIT](https://github.com/maciekt07/TodoApp/blob/main/LICENSE).
