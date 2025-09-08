@@ -5,16 +5,6 @@
 # 📝React.js Todo App
 
 <p align="center"><i>A fast and modern Todo app built with React, featuring task sharing via link, P2P Task Sync with WebRTC, theme customization, offline usage as a PWA, and caching for smooth performance.</i></p>
-
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/baner.png" />
-
-## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)](https://app.netlify.com/sites/react-cool-todo-app/deploys)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maciekt07/TodoApp?color=%23b624ff)
-![GitHub created at ](https://img.shields.io/github/created-at/maciekt07/TodoApp?color=%23b624ff)
-![GitHub last commit](https://img.shields.io/github/last-commit/maciekt07/TodoApp?color=%23b624ff)
-
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/iPhone%20Mockup%20black.png" width="400px" />
 </p> -->
@@ -87,13 +77,6 @@ The app features a custom update prompt that notifies users when a new version i
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/UpdatePrompt.png" alt="update prompt" width="260px" />
 
-### 📱 Custom Splash Screens
-
-The app automatically generates custom splash screens from a single HTML template for various iOS and iPadOS devices in both light and dark modes. These splash screens provide a smooth, native-like launch experience when the app is opened as a PWA.
-
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/SplashScreen.png" alt="Splash Screen Example" width="450px" />
-
-To generate splash screens: `npm run generate-splash`
 
 ## 👨‍💻 Installation
 
@@ -123,4 +106,5 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/performance.png" width="600px" />
 
 ## Credits
+
 
